@@ -25,8 +25,6 @@ Me apasiona:
 - **[BigQuery + ML: Predicción de ventas](notebooks/bigquery_ml_project.ipynb)**  
   Proyecto en Google BigQuery con consultas SQL, limpieza de datos y un modelo de Machine Learning integrado para predicción.  
 
-- **[Dashboard interactivo en Power BI](dashboards/)**  
-  Dashboard de ventas con visualizaciones interactivas (categorías, tendencias y comparaciones).  
 
 ---
 
@@ -47,7 +45,7 @@ Me apasiona:
 - **Big Data**: Spark, BigQuery  
 - **Bases de datos**: MongoDB, DuckDB  
 - **IA/ML**: TensorFlow (básico), scikit-learn  
-- **Visualización**: Power BI, matplotlib  
+- **Visualización**: Matplotlib  
 
 ---
 
