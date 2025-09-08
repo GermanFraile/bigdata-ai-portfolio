@@ -56,5 +56,5 @@ Me apasiona el mundo de los datos y disfruto:
 
 ---
 
-## 🌟 Nota  
+## Nota  
 Este repositorio está en constante evolución, incorporando nuevos proyectos y aprendizajes en Big Data e Inteligencia Artificial.  
