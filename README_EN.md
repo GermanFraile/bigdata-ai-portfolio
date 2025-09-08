@@ -24,9 +24,6 @@ I am passionate about:
 - **[BigQuery + ML: Sales Prediction](notebooks/bigquery_ml_project.ipynb)**  
   Project in Google BigQuery with SQL queries, data cleaning, and an integrated Machine Learning model for prediction.  
 
-- **[Interactive Dashboard in Power BI](dashboards/)**  
-  Sales dashboard with interactive visualizations (categories, trends, and comparisons).  
-
 ---
 
 ## Certifications  
