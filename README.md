@@ -6,7 +6,7 @@ El objetivo es mostrar habilidades prácticas en procesamiento de datos, machine
 ---
 
 ## Sobre mí  
-Soy estudiante de FP Grado Superior en Informática.  
+Soy estudiante de FP Grado Superior en Informática (ASIR, con especial interés en Big Data e Inteligencia Artificial).  
 Me interesé por el mundo de los datos comenzó en la asignatura de Bases de Datos en 1º de ASIR, donde descubrí que disfruto trabajando con SQL, con mongoDB y modelando información.  
 
 Me apasiona:  
