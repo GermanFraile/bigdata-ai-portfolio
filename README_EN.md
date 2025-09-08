@@ -43,7 +43,7 @@ I am passionate about:
 - **Big Data**: Spark, BigQuery  
 - **Databases**: MongoDB, DuckDB  
 - **AI/ML**: TensorFlow (basic), scikit-learn  
-- **Visualization**: Power BI, matplotlib  
+- **Visualization**: Matplotlib  
 
 ---
 
