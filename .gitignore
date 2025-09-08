@@ -11,14 +11,14 @@ build/
 .ipynb_checkpoints/
 *.nbconvert.ipynb
 
-# Archivos de entorno virtual (Miniconda, venv)
+# Archivos de Miniconda y venv
 env/
 venv/
 .venv/
 *.conda
 *.env
 
-# Archivos de datos locales (no subir datasets grandes)
+# Archivos de datos locales
 *.csv
 *.tsv
 *.json
@@ -27,7 +27,7 @@ venv/
 *.sqlite
 *.h5
 
-# Configuración de sistema / IDE
+# Configuración de sistema
 .DS_Store
 Thumbs.db
 .vscode/
