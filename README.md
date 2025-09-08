@@ -1,6 +1,6 @@
 # Big Data + AI Portfolio  
 
-Este repositorio recopila proyectos y certificaciones en **Big Data, Inteligencia Artificial y Análisis de Datos**.  
+Aqui muestro una recopilación de proyectos y certificaciones en **Big Data, Inteligencia Artificial y Análisis de Datos**.  
 El objetivo es mostrar habilidades prácticas en procesamiento de datos, machine learning y visualización.  
 
 ---
@@ -53,12 +53,12 @@ Me apasiona:
 
 ## Contacto  
 
-- 👤 Germán Fraile
-- 📍 Madrid, España  
-- 💻 GitHub: [GermanFraile](https://github.com/GermanFraile)  
-- 📧 Email: manfraile9@gmail.com
+- Germán Fraile
+- Madrid, España  
+-  GitHub: [GermanFraile](https://github.com/GermanFraile)  
+- Email: manfraile9@gmail.com
 
 ---
 
 ## Nota  
-Este repositorio está en constante evolución, incorporando nuevos proyectos y aprendizajes en Big Data e Inteligencia Artificial.  
+Este repositorio crecerá a medida que mis conocimientos lo hagan, incorporando nuevos proyectos y aprendizajes en Big Data e Inteligencia Artificial.  
