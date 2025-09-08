@@ -6,11 +6,14 @@ El objetivo es mostrar habilidades prácticas en procesamiento de datos, machine
 ---
 
 ## Sobre mí  
-Soy estudiante de FP Grado Superior en Administración de Sistemas Informáticos en Red.  
-Me apasiona el mundo de los datos y disfruto:  
+Soy estudiante de FP Grado Superior en Informática.  
+Me interesé por el mundo de los datos comenzó en la asignatura de **Bases de Datos en 1º de ASIR**, donde descubrí lo mucho que disfruto trabajando con SQL y modelando información.  
+
+Me apasiona:  
 - Automatizar procesos.  
 - Diseñar consultas y optimizar bases de datos.  
 - Transformar datos en información útil y visual.  
+
 
 ---
 
