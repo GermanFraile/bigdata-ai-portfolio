@@ -7,7 +7,7 @@ El objetivo es mostrar habilidades prácticas en procesamiento de datos, machine
 
 ## Sobre mí  
 Soy estudiante de FP Grado Superior en Informática.  
-Me interesé por el mundo de los datos comenzó en la asignatura de **Bases de Datos en 1º de ASIR**, donde descubrí lo mucho que disfruto trabajando con SQL y modelando información.  
+Me interesé por el mundo de los datos comenzó en la asignatura de **Bases de Datos en 1º de ASIR**, donde descubrí que disfruto trabajando con SQL, con mongoDB y modelando información.  
 
 Me apasiona:  
 - Automatizar procesos.  
@@ -34,7 +34,7 @@ Me apasiona:
 
 - **Google Cloud** — Big Data & Machine Learning Fundamentals (2025)  
 - **Spark Fundamentals** (2025)  
-- **MongoDB University** — [nombre del curso realizado] (2025)  
+- **MongoDB University** — [Varios Skill certificates en Diseño y modelado de esquemas, Optimización y rendimiento] (2025)  
 - **Python Data Analysis** (2025)  
 
 *(Ver PDFs en la carpeta [`/certificates`](certificates/))*  
@@ -53,8 +53,9 @@ Me apasiona:
 
 ## Contacto  
 
+- 👤 Germán Fraile
 - 📍 Madrid, España  
-- 💻 GitHub: [TuUsuario](https://github.com/TuUsuario)  
+- 💻 GitHub: [GermanFraile](https://github.com/GermanFraile)  
 - 📧 Email: manfraile9@gmail.com
 
 ---
