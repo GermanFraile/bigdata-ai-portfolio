@@ -6,13 +6,15 @@ El objetivo es mostrar habilidades prácticas en procesamiento de datos, machine
 ---
 
 ## Sobre mí  
-Soy estudiante de FP Grado Superior en Informática (ASIR, con especial interés en Big Data e Inteligencia Artificial).  
-Me interesé por el mundo de los datos comenzó en la asignatura de Bases de Datos en 1º de ASIR, donde descubrí que disfruto trabajando con SQL, con mongoDB y modelando información.  
+Soy estudiante de FP Grado Superior en Informática (ASIR, con especial interés en Ciberseguridad, Big Data e Inteligencia Artificial).  
+Me interesé por el mundo de los datos comenzó cursando Base de Datos en 1º de ASIR, donde descubrí que disfruto trabajando con SQL, con mongoDB y modelando información.
+Mi pasión por la Ciberseguridad comenzó cursando una formación práctica de 500 horas en el SOC de [Indra](https://www.minsait.com/es/servicios/cybersecurity?utm_source=google-search&utm_medium=cpc&utm_campaign=tech4impact-sem&gad_source=1&gad_campaignid=23411791865&gclid=CjwKCAiA1obMBhAbEiwAsUBbIvzrSpmnTeYYh6yehkGHs9iaSMX3xGbVW35_yfpUmW6Pi0NSPNHQSRoCIkgQAvD_BwE) - Thread Profiling.
 
 Me apasiona:  
 - Automatizar procesos.  
 - Diseñar consultas y optimizar bases de datos.  
-- Transformar datos en información útil y visual.  
+- Transformar datos en información útil y visual.
+- Manejar SIEMs, EDRs ...  
 
 
 ---
