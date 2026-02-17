@@ -1,4 +1,4 @@
-# Big Data + AI Portfolio  
+# Big Data + AI Portfolio  Germán Fraile
 
 Aqui muestro una recopilación de proyectos y certificaciones en **Big Data, Inteligencia Artificial y Análisis de Datos**.  
 El objetivo es mostrar habilidades prácticas en procesamiento de datos, machine learning y visualización.  
