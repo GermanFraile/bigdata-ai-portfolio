@@ -57,6 +57,7 @@ Me apasiona:
 - Madrid, España  
 -  GitHub: [GermanFraile](https://github.com/GermanFraile)  
 - Email: manfraile9@gmail.com
+- Linkedin: [Germán Fraile](https://www.linkedin.com/in/germán-fraile-b939ab3a8/)
 
 ---
 
