@@ -21,10 +21,10 @@ Me apasiona:
 
 ## Proyectos  
 
-- **[ETL de ventas de videojuegos con Python y DuckDB](notebooks/etl_videogames.ipynb)**  
+- **[ETL de ventas de videojuegos con Python y DuckDB](Proyects/etl_videogames.ipynb)**  
   Proceso de extracción, transformación y carga (ETL) con Python, pandas y DuckDB sobre un dataset abierto de Kaggle.  
 
-- **[BigQuery + ML: Predicción de ventas](notebooks/bigquery_ml_project.ipynb)**  
+- **[BigQuery + ML: Predicción de ventas](Proyects/bigquery_ml_project.ipynb)**  
   Proyecto en Google BigQuery con consultas SQL, limpieza de datos y un modelo de Machine Learning integrado para predicción.  
 
 
