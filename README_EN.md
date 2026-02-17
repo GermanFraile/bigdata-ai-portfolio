@@ -52,4 +52,5 @@ I am passionate about:
 -  Germán Fraile  
 -  Madrid, Spain  
 -  GitHub: [GermanFraile](https://github.com/GermanFraile)  
--  Email: manfraile9@gmail.com 
+-  Email: manfraile9@gmail.com
+-  Linkedin: [Germán Fraile](https://www.linkedin.com/in/germán-fraile-b939ab3a8/) 
