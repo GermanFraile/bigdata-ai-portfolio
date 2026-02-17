@@ -1,4 +1,4 @@
-# Big Data + AI Portfolio Germán Fraile
+# Cibersecurity / Big Data + AI Portfolio Germán Fraile
 
 This repository showcases a collection of projects and certifications in **Big Data, Artificial Intelligence, and Data Analysis**.  
 The goal is to demonstrate practical skills in data processing, machine learning, and visualization.  
@@ -18,10 +18,10 @@ I am passionate about:
 
 ## Projects  
 
-- **[Video Game Sales ETL with Python and DuckDB](notebooks/etl_videogames.ipynb)**  
+- **[Video Game Sales ETL with Python and DuckDB](Proyects/etl_videogames.ipynb)**  
   Extraction, Transformation, and Load (ETL) process using Python, pandas, and DuckDB with an open dataset from Kaggle.  
 
-- **[BigQuery + ML: Sales Prediction](notebooks/bigquery_ml_project.ipynb)**  
+- **[BigQuery + ML: Sales Prediction](Proyects/bigquery_ml_project.ipynb)**  
   Project in Google BigQuery with SQL queries, data cleaning, and an integrated Machine Learning model for prediction.  
 
 ---
