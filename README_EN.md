@@ -1,4 +1,4 @@
-# Big Data + AI Portfolio  
+# Big Data + AI Portfolio Germán Fraile
 
 This repository showcases a collection of projects and certifications in **Big Data, Artificial Intelligence, and Data Analysis**.  
 The goal is to demonstrate practical skills in data processing, machine learning, and visualization.  
